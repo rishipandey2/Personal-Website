@@ -1,6 +1,7 @@
 # Personal Website
 
 Welcome to my personal website repository! This website serves as an online portfolio where I showcase my projects, skills, and professional journey. Feel free to explore and learn more about me.
+it is still not completed. I have to add some projects in it.
 
 ## Features
 
