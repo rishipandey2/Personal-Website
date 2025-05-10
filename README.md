@@ -1,6 +1,9 @@
 # Personal Website
 
-Welcome to my personal website repository! This website serves as an online portfolio where I showcase my projects, skills, and professional journey. Feel free to explore and learn more about me.
+Welcome to my personal website repository!
+
+![Screenshot (94)](https://github.com/user-attachments/assets/3992fdba-535f-406e-ac30-d7c38da5c5e0)
+
 
 ## 🚀 Features
 
@@ -13,9 +16,6 @@ The website is fully responsive, providing an optimal viewing experience on vari
 
 ### 🛠️ Skills Showcase
 - Highlights my technical skills, including programming languages, frameworks, and tools I’m proficient in.
-
-### 📬 Contact Information
-- An interactive section where you can connect with me through social media or email.
 
 ## 🖥️ Live Demo
 
